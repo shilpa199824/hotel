@@ -67,14 +67,21 @@ export const socialIcons = [
 
 export const carouselData = [
   {
-    img: "../assets/img/carousel-1.jpg",
+    img: "../assets/img/hotel.jpg",
     title: "Discover Luxurious Hotel",
     subtitle: "luxury living",
     btn1: "Our Room",
     btn2: "Book Room",
   },
   {
-    img: "../assets/img/carousel-2.jpg",
+    img: "../assets/img/main-E.jpg",
+    title: "Discover Luxurious Hotel",
+    subtitle: "luxury living",
+    btn1: "Our Room",
+    btn2: "Book Room",
+  },
+  {
+    img: "../assets/img/swim.jpg",
     title: "Discover Luxurious Hotel",
     subtitle: "luxury living",
     btn1: "Our Room",
@@ -135,24 +142,24 @@ export const services = [
 ];
 export const team = [
   {
-    image: "../assets/img/team-1.jpg",
-    name: "Full Name",
+    image: "../assets/img/manager.jpg",
+    name: "Siddharth Sathe",
+    designation: "Hotel Manager",
+  },
+  {
+    image: "../assets/img/front.jpg",
+    name: "Amrutha",
+    designation: "Front Desk",
+  },
+  {
+    image: "../assets/img/chef.jpg",
+    name: "Manish Sharma ",
     designation: "Designation",
   },
   {
-    image: "../assets/img/team-2.jpg",
-    name: "Full Name",
-    designation: "Designation",
-  },
-  {
-    image: "../assets/img/team-3.jpg",
-    name: "Full Name",
-    designation: "Designation",
-  },
-  {
-    image: "../assets/img/team-3.jpg",
-    name: "Full Name",
-    designation: "Designation",
+    image: "../assets/img/house.webp",
+    name: "Housekeeping",
+    designation: "Houekeeping Staff",
   },
 ];
 
@@ -236,33 +243,43 @@ export const contact = [
 export const testimonial = [
   {
     description:
-      "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos",
-    name: "Client Name",
-    profession: "Profession",
+      "The dishes were beautifully plated, making the dining experience even more enjoyable",
+    name: "Vijay Prakash",
+    profession: "Singer",
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
-    img: "../assets/img/testimonial-1.jpg",
+    img: "../assets/img/vijya.jpg",
   },
   {
     description:
-      "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos",
-    name: "Client Name",
-    profession: "Profession",
+      "A great selection of both local and international cuisine to choose from, Amazing afternoon spent relaxing and getting pampered! ...",
+    name: "Rashmika Madana",
+    profession: "Actor",
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
-    img: "../assets/img/testimonial-2.jpg",
+    img: "../assets/img/rashmika.jpg",
   },
   {
     description:
-      "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos",
-    name: "Client Name",
-    profession: "Profession",
+      "The food was absolutely delicious, with fresh ingredients and perfectly cooked dishes",
+    name: "Sihi Kahi Chandru",
+    profession: "Actor",
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
     ),
-    img: "../assets/img/testimonial-3.jpg",
+    img: "../assets/img/chandru.jpg",
+  },
+  {
+    description:
+      "The food was absolutely delicious, with fresh ingredients. The gym was very clean and well-maintained, with towels readily available.",
+    name: "Rocking Star Yash",
+    profession: "Actor",
+    icon: (
+      <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
+    ),
+    img: "../assets/img/yash.jpg",
   },
 ];
 
@@ -279,7 +296,7 @@ export const roomItems = [
       <small class="fa fa-star text-primary"></small>,
     ],
     description:
-      ": A larger sitting area compared to standard rooms, often with a sofa and chairs.",
+      "A larger sitting area compared to standard rooms, often with a sofa and chairs.",
     yellowbtn: "View Detail",
     darkbtn: "book now",
   },
@@ -312,7 +329,7 @@ price: "₹10000/night",
       <small class="fa fa-star text-primary"></small>,
     ],
     description:
-      ": A large, comfortable bedroom with a king-size bed and high-speed internet access.",
+      "A large, comfortable bedroom with a king-size bed and high-speed internet access.",
     yellowbtn: "View Detail",
     darkbtn: "book now",
   },

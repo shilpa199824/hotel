@@ -17,9 +17,7 @@ export default function About() {
                 <span className="text-primary text-uppercase">NIRVANA</span>
               </h1>
               <p className="mb-4">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-                sed stet lorem sit clita duo justo magna dolore erat amet
+              Welcome to Hotel Nirvana, where luxury meets comfort. Nestled in a prime location, we offer world-class hospitality, elegant accommodations, and top-notch amenities to ensure a memorable stay. Whether you're here for business or leisure, our warm ambiance and exceptional service promise a truly relaxing experience. Indulge in fine dining, unwind at our spa, or explore the vibrant surroundings. <br/>Hotel Nirvana is your perfect retreat.
               </p>
               <div className="row g-3 pb-4">
                 {about.map((item, key) => (

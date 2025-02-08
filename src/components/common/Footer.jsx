@@ -18,8 +18,7 @@ export default function Footer() {
                   <h1 className="text-white text-uppercase mb-3">NIRVANA'S</h1>
                 </Link>
                 <p className="text-white mb-0">
-                  Build a professional website for your hotel business and grab
-                  the attention of new visitors upon your site’s launch.
+                Hotel Nirvana offers a luxurious retreat with exceptional hospitality, elegant rooms, and world-class amenities. Experience comfort and serenity in the heart of the city.
                 </p>
               </div>
             </div>

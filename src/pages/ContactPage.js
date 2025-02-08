@@ -36,7 +36,7 @@ export default function Contact() {
                 class="position-relative rounded w-100 h-100"
                 src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14782.78518960476!2d77.603485!3d12.967052!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1680b68d65fb%3A0x2f03f7526c070b5!2sNagarjuna%20Restaurant%20-%20Residency%20Road!5e1!3m2!1sen!2sus!4v1739049954663!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
                 frameborder="0"
-                style={{ minHeight: "350px", border: "0" }}
+            style={{ minHeight: "350px", border: "0" }}
                 allowfullscreen=""
                 aria-hidden="false"
                 tabindex="0"
