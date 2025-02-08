@@ -34,7 +34,7 @@ export default function Contact() {
             <div class="col-md-6 wow fadeIn" data-wow-delay="0.1s">
               <iframe
                 class="position-relative rounded w-100 h-100"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14782.78518960476!2d77.603485!3d12.967052!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1680b68d65fb%3A0x2f03f7526c070b5!2sNagarjuna%20Restaurant%20-%20Residency%20Road!5e1!3m2!1sen!2sus!4v1739049954663!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
                 frameborder="0"
                 style={{ minHeight: "350px", border: "0" }}
                 allowfullscreen=""

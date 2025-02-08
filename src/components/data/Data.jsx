@@ -68,14 +68,14 @@ export const socialIcons = [
 export const carouselData = [
   {
     img: "../assets/img/carousel-1.jpg",
-    title: "Discover A Brand Luxurious Hotel",
+    title: "Discover Luxurious Hotel",
     subtitle: "luxury living",
     btn1: "Our Room",
     btn2: "Book Room",
   },
   {
     img: "../assets/img/carousel-2.jpg",
-    title: "Discover A Brand Luxurious Hotel",
+    title: "Discover Luxurious Hotel",
     subtitle: "luxury living",
     btn1: "Our Room",
     btn2: "Book Room",
@@ -112,7 +112,7 @@ export const services = [
   },
   {
     icon: <i class="fa fa-spa fa-2x text-primary"></i>,
-    name: "Spa & Fitness",
+    name: "Spa & Swimming Pool",
     discription: "Contrary to popular belief, ipsum is not simply random.",
   },
 
@@ -186,7 +186,7 @@ export const footerItem = [
         name: "Food & Restaurant",
       },
       {
-        name: "Spa & Fitness",
+        name: "Spa & Swimming Pool",
       },
       {
         name: "Sports & Gaming",
@@ -204,11 +204,11 @@ export const footerItem = [
 export const footerContact = [
   {
     icon: <i className="fa fa-map-marker-alt me-3"></i>,
-    name: "123 Street, New York, USA",
+    name: "123 Street, Bangalore, India",
   },
   {
     icon: <i className="fa fa-phone-alt me-3"></i>,
-    name: "+012 345 67890",
+    name: "080 345 67890",
   },
   {
     icon: <i className="fa fa-envelope me-3"></i>,
@@ -269,7 +269,7 @@ export const testimonial = [
 export const roomItems = [
   {
     img: "../assets/img/room-1.jpg",
-    price: "$110/night",
+    price: "₹3000/night",
     name: "Junior Suit",
     star: [
       <small class="fa fa-star text-primary"></small>,
@@ -279,14 +279,14 @@ export const roomItems = [
       <small class="fa fa-star text-primary"></small>,
     ],
     description:
-      "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.",
+      ": A larger sitting area compared to standard rooms, often with a sofa and chairs.",
     yellowbtn: "View Detail",
     darkbtn: "book now",
   },
 
   {
     img: "../assets/img/room-2.jpg",
-    price: "$110/night",
+price: "₹6000/night",
     name: "Executive Suite",
     star: [
       <small class="fa fa-star text-primary"></small>,
@@ -296,13 +296,13 @@ export const roomItems = [
       <small class="fa fa-star text-primary"></small>,
     ],
     description:
-      "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.",
+      "A large, comfortable bedroom with a king-size bed and a dedicated living area with a sofa and chairs.",
     yellowbtn: "View Detail",
     darkbtn: "book now",
   },
   {
     img: "../assets/img/room-3.jpg",
-    price: "$110/night",
+price: "₹10000/night",
     name: "Super Deluxe",
     star: [
       <small class="fa fa-star text-primary"></small>,
@@ -312,7 +312,7 @@ export const roomItems = [
       <small class="fa fa-star text-primary"></small>,
     ],
     description:
-      "Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet lorem.",
+      ": A large, comfortable bedroom with a king-size bed and high-speed internet access.",
     yellowbtn: "View Detail",
     darkbtn: "book now",
   },
